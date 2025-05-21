@@ -1,0 +1,58 @@
+import { Project } from '../types';
+
+export const projects: Project[] = [
+  {
+    id: 1,
+    title: 'FinTech Dashboard',
+    description: 'A comprehensive financial management platform with real-time analytics and intuitive interface.',
+    image: 'https://images.pexels.com/photos/7681091/pexels-photo-7681091.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    category: 'ui-design',
+    link: '#',
+    year: '2024',
+  },
+  {
+    id: 2,
+    title: 'Health & Wellness App',
+    description: 'Mobile application for tracking fitness goals, nutrition, and mental wellbeing.',
+    image: 'https://images.pexels.com/photos/4498603/pexels-photo-4498603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    category: 'app-design',
+    link: '#',
+    year: '2023',
+  },
+  {
+    id: 3,
+    title: 'E-commerce Platform',
+    description: 'Modern e-commerce solution with advanced filtering, AR product preview, and seamless checkout.',
+    image: 'https://images.pexels.com/photos/6956903/pexels-photo-6956903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    category: 'web-design',
+    link: '#',
+    year: '2023',
+  },
+  {
+    id: 4,
+    title: 'Smart Home Interface',
+    description: 'IoT control system interface for managing connected home devices and automation.',
+    image: 'https://images.pexels.com/photos/7005693/pexels-photo-7005693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    category: 'ui-design',
+    link: '#',
+    year: '2023',
+  },
+  {
+    id: 5,
+    title: 'Travel Experience App',
+    description: 'Travel planning and booking app with personalized recommendations and local experiences.',
+    image: 'https://images.pexels.com/photos/7412069/pexels-photo-7412069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    category: 'app-design',
+    link: '#',
+    year: '2023',
+  },
+  {
+    id: 6,
+    title: 'Educational Platform',
+    description: 'Online learning platform with interactive courses, progress tracking, and community features.',
+    image: 'https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    category: 'web-design',
+    link: '#',
+    year: '2023',
+  },
+];
