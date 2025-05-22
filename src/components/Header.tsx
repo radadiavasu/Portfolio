@@ -44,7 +44,7 @@ const Header = () => {
     >
       <div className="container mx-auto px-6 flex justify-between items-center">
         <div className="text-white font-bold text-xl md:text-2xl cursor-pointer" onClick={() => navigate('/')}>
-          <span className="text-cyan-400">BEN</span>CELINSKI
+          <span className="text-cyan-400">KUNJ</span>RADADIYA
         </div>
         
         <nav className="hidden md:block">
