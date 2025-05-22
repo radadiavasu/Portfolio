@@ -23,7 +23,7 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-cyan-400 font-medium mb-4 animate-fadeIn">Welcome to my portfolio</p>
           <h1 className="text-5xl md:text-7xl font-bold leading-tight mb-6 animate-fadeIn">
-            Creative <span className="text-cyan-400">3D Artist</span> Based in India
+            Creative <span className="text-cyan-400">3D Artist </span> Based in India
           </h1>
           
           <p className="text-xl text-gray-300 mb-12 animate-fadeIn animation-delay-300 max-w-2xl mx-auto">
