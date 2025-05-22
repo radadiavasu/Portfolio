@@ -11,7 +11,7 @@ const About = () => {
                 <div className="absolute -top-4 -left-4 w-72 h-72 bg-cyan-400/20 rounded-full filter blur-2xl"></div>
                 <img 
                   src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
-                  alt="Ben Celinski" 
+                  alt="Kunj Radadiya" 
                   className="w-full h-auto rounded-2xl relative z-10"
                 />
               </div>
@@ -20,20 +20,20 @@ const About = () => {
             <div className="w-full md:w-1/2 space-y-6">
               <span className="text-cyan-400 font-medium">About Me</span>
               <h2 className="text-3xl md:text-4xl font-bold">
-                Transforming Ideas Into Digital Experiences
+                Transforming Ideas Into 3D Experiences
               </h2>
               
               <p className="text-gray-300">
-                With over 8 years of experience in product design, I specialize in creating intuitive and engaging digital experiences that solve real user problems while driving business growth.
+                With over 1 years of experience in 3D design, I specialize in creating intuitive and engaging 3D experiences that solve real user problems while driving business growth.
               </p>
               
               <div className="grid grid-cols-2 gap-6 py-6">
                 <div>
-                  <h3 className="text-4xl font-bold text-cyan-400 mb-2">8+</h3>
+                  <h3 className="text-4xl font-bold text-cyan-400 mb-2">1+</h3>
                   <p className="text-gray-300">Years of Experience</p>
                 </div>
                 <div>
-                  <h3 className="text-4xl font-bold text-cyan-400 mb-2">50+</h3>
+                  <h3 className="text-4xl font-bold text-cyan-400 mb-2">5+</h3>
                   <p className="text-gray-300">Projects Completed</p>
                 </div>
               </div>
@@ -41,7 +41,7 @@ const About = () => {
               <div className="space-y-4">
                 <div>
                   <div className="flex justify-between items-center mb-2">
-                    <span className="text-gray-300">UI/UX Design</span>
+                    <span className="text-gray-300">3D Design</span>
                     <span className="text-cyan-400">98%</span>
                   </div>
                   <div className="w-full bg-gray-700 h-2 rounded-full">
@@ -51,7 +51,7 @@ const About = () => {
                 
                 <div>
                   <div className="flex justify-between items-center mb-2">
-                    <span className="text-gray-300">Product Strategy</span>
+                    <span className="text-gray-300">3D Modeling</span>
                     <span className="text-cyan-400">92%</span>
                   </div>
                   <div className="w-full bg-gray-700 h-2 rounded-full">
@@ -61,7 +61,7 @@ const About = () => {
                 
                 <div>
                   <div className="flex justify-between items-center mb-2">
-                    <span className="text-gray-300">Design Systems</span>
+                    <span className="text-gray-300">3D Rendering</span>
                     <span className="text-cyan-400">95%</span>
                   </div>
                   <div className="w-full bg-gray-700 h-2 rounded-full">

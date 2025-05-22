@@ -20,7 +20,7 @@ const Projects = () => {
             Featured Projects
           </h2>
           <p className="text-gray-300">
-            Explore my recent design projects, showcasing a blend of creativity, user-centered thinking, and technical excellence.
+            Explore my recent 3D projects, showcasing a blend of creativity, user-centered thinking, and technical excellence.
           </p>
         </div>
         

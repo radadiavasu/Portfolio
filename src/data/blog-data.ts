@@ -10,9 +10,9 @@ export const authors: Author[] = [
   },
   {
     id: '2',
-    name: 'Priya Sharma',
+    name: 'Kunj Radadiya',
     avatar: 'https://randomuser.me/api/portraits/women/44.jpg',
-    bio: 'UI/UX designer and front-end specialist. Loves crafting beautiful, user-centric digital experiences.',
+    bio: '3D Artist and front-end specialist. Loves crafting beautiful, user-centric digital experiences.',
   },
   {
     id: '3',
